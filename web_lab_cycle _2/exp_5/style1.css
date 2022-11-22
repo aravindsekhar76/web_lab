@@ -1,0 +1,18 @@
+body{
+
+
+color:red;
+background-color: purple;
+}
+header{
+	text-allign: center;
+	background-color: yellow;
+	font-size: x-large;
+} 
+.yellow{
+	background-color: yellow;
+}
+#content{
+	width: 350px;
+
+}
